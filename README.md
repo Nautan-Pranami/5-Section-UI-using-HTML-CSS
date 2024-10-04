@@ -44,7 +44,7 @@ This project demonstrates a straightforward UI layout, consisting of a well-orga
 ### How to Use:
 1. **Clone the Repository**:  
    ```bash
-   git clone https://github.com/your-username/repository-name.git
+   git clone https://github.com/Nautan-Pranami/5-Section-UI-using-HTML-CSS
    ```
 
 2. **Open the HTML File**:  
