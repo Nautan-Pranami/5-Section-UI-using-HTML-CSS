@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #AF47D2;
+}
+
+nav {
+    background-color: #FFFED3;
+    text-align: center;
+    font-family: "Bebas Neue", sans-serif;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+nav a {
+    text-decoration: none;
+    color: brown;
+    padding: 1%;
+}
+
+.main {
+    background-color: #FFFED3;
+    width: 85%;
+    margin: 0 auto;
+    padding: 1%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    background-color: #FFF;
+    border-radius: 10px;
+}
+
+/* Flex direction reversed for the second section */
+.reverse {
+    /* flex-direction: row-reverse; */
+    float: right;
+}
+
+.content {
+    flex: 1;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    color: #333;
+    font-size: 18px;
+}
+
+.content a {
+    text-decoration: none;
+    background-color: #667BC6;
+    border: 0;
+    border-radius: 3%;
+    padding: 2%;
+    color: white;
+    font-size: small;
+}
+
+img {
+    width: 40%;
+    object-fit: contain;
+    border: 0;
+    border-radius: 2%;
+}
