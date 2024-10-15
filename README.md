@@ -1,10 +1,10 @@
 # 5-Section-UI-using-HTML-CSS
 
-Here’s a detailed description and design for your GitHub repository based on the provided information:
-
 ---
 
 This project demonstrates a straightforward UI layout, consisting of a well-organized structure with five main sections: a **Navigation Bar**, three content **Sections (1, 2, and 3)**, and a **Footer**. The design is clean and minimalistic, making use of semantic HTML elements and images to create a user-friendly interface.
+
+![{766B7E63-2B76-4342-A45A-9053D9AC84F7}](https://github.com/user-attachments/assets/4a462054-ac64-47bb-badf-1a50fbef031d)
 
 ### Project Features:
 
